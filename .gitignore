@@ -22,3 +22,4 @@ Oqtane.Server/Packages
 Oqtane.Server/wwwroot/Content
 Oqtane.Server/wwwroot/Packages/*.log
 
+Oqtane.Server/appsettings.json
